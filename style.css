@@ -1,0 +1,91 @@
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+html {
+  font-family: 'Poiret One', cursive;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+header {
+  font-size: 150%;
+  background-color: grey;
+  text-align: center;
+  width: 100%;
+  margin: 0;
+  padding-bottom: 10px;
+}
+header h1 {
+  margin: 0;
+  padding-top: 10px;
+}
+#blurb {
+  font-size: 50%;
+}
+#legume {
+  color: brown;
+  font-style: italic;
+  font-weight: 900;
+}
+#navigation {
+  background-color: white;
+  font-size: 200%;
+  color: black;
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  margin: 0;
+}
+body {
+  background-image: url(Images/black_beans.jpg);
+}
+#ourstory {
+  color: brown;
+  background-color: white;
+  width: 75%;
+  text-align: left;
+  float: left;
+  font-size: 1em;
+  padding: 2em;
+  margin: 3em;
+}
+#ourstorytitle {
+  text-align: center;
+  color: black;
+  border: 1px;
+  border-style: ridge;
+  background-color: gray;
+}
+#menu {
+  color: brown;
+  background-color: white;
+  width: 75%;
+  text-align: left;
+  float: left;
+  font-size: 1em;
+  padding: 2em;
+  margin: 3em;
+}
+#menutitle {
+  text-align: center;
+  color: black;
+  border: 1px;
+  border-style: ridge;
+  background-color: gray;}
+#events{
+  color: brown;
+  background-color: white;
+  width: 75%;
+  text-align: left;
+  list-style: circle;
+  float: left;
+  font-size: 1em;
+  padding: 2em;
+  margin: 3em;
+}
+#eventstitle {
+  text-align: center;
+  color: black;
+  border: 1px;
+  border-style: ridge;
+  background-color: gray;
+}
